@@ -1,0 +1,20 @@
+{
+	"name": "koa-stream-length",
+	"version": "1.0.0",
+	"description": "Koa middleware for setting content length response header for a stream",
+	"main": "src/stream-length.js",
+	"scripts": {
+		"test": "mocha test"
+	},
+	"keywords": [
+		"koa",
+		"middleware",
+		"stream"
+	],
+	"author": "Kieran Simpson",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:kierans/koa-stream-length.git"
+	},
+	"license": "MIT"
+}
