@@ -16,5 +16,20 @@
 		"type": "git",
 		"url": "git@github.com:kierans/koa-stream-length.git"
 	},
-	"license": "MIT"
+	"files": [
+		"src",
+		"README.md"
+	],
+	"license": "MIT",
+	"devDependencies": {
+		"hamjest": "^3.2.3",
+		"koa-router": "^7.4.0",
+		"koa-simple-web": "^1.1.0",
+		"mocha": "^6.1.4",
+		"superagent": "^5.1.0",
+		"superjest": "^0.1.0"
+	},
+	"dependencies": {
+		"mz": "^2.7.0"
+	}
 }
