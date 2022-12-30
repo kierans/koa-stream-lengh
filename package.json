@@ -25,7 +25,7 @@
 		"hamjest": "^3.2.3",
 		"koa-router": "^7.4.0",
 		"koa-simple-web": "^1.1.0",
-		"mocha": "^6.1.4",
+		"mocha": "^10.2.0",
 		"superagent": "^5.1.0",
 		"superjest": "^0.1.0"
 	},
